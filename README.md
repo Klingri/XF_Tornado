@@ -1,11 +1,11 @@
-# Dvortek
+# XF_Tornado
 A Web Platform for Playing games and hanging out.
 
 # Introduction
-**Dvortek** is a high-performance, general-purpose web platform for gamers and players.
+**XF_Tornado** (formerly Dvortek) is a high-performance, general-purpose web platform for gamers and players.
 - Visit our [website.](https://klingri.github.io/VortexPro/)
 - We did not copy the code of Vortex, we have never looked at the code of Vortex. [here.](https://github.com/inuk84/Vortex2plus2)
-- The owner of Vortex is known for alleged harassment and for spreading misinformation regarding Dvortek.
+- The owner of Vortex is known for alleged harassment and for spreading misinformation regarding XF_Tornado.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=flat&logo=discord)](https://discord.gg/kedeZpj8eN)
@@ -26,12 +26,12 @@ For more Info on methods of Installation, go [here.](https://github.com/Klingri/
 
 # Known Issues & Stability
 For more Info on known issues and stability, go (WIP WORK IN PROGRESS)
-Dvortek is unstable right now.
+XF Tornado is unstable right now.
 Currently in early development, this platform is new. Please expect bugs and potential instability as I work toward a stable release
 - **Performance:** These experimental updates may cause performance issues on lower-end systems.
 - **UI Glitches:** Minor UI display issues may occur on certain places.
 
-**Submit bugs via [GitHub Issues](https://github.com/Klingri/Dvortek/issues) or the VortexPro Discord (User: Klingri).**
+**Submit bugs via [GitHub Issues](https://github.com/Klingri/Dvortek/issues)**
 
 > [!IMPORTANT]
 > **Compatibility:** Currently, While it works on Safari and Chromium-based browsers, functionality may vary, and we cannot guarantee a consistent experience across all platforms.
@@ -54,10 +54,10 @@ For more Info of frequently asked questions, go (WIP WORK IN PROGRESS)
 
 | Topic | Question | Answer
 | :--- | :--- | :--- |
-General | **How can I submit feedback or report a bug?** | Feel free to reach out via GitHub or Discord (username: Klingri). For the fastest response, connect with me on the VortexPro Discord server.
+General | **How can I submit feedback or report a bug?** | Feel free to reach out via GitHub or Discord (username: Klingri).
 
 > [!IMPORTANT]
-> **Updates:** Currently, updates require re-downloading the latest release and repeating the installation steps. We are actively developing a seamless auto-updater for a future release.
+> **Updates:** Updates are seamless and automatic.
 
 ---
 
@@ -78,25 +78,25 @@ For more Info on our current features, go (WIP WORK IN PROGRESS)
 | Feature | Description | Contributor |
 | :--- | :--- | :--- |
 | **Dark Mode** | Full platform-wide dark theme. | @Klingri |
-| **Custom Theme Manager** | Enables theme customization. | @atharv |
+| **Custom Theme Manager** | Enables theme customization. | @Myroshlaug |
 
 ---
 
 # Further Reading
 - **Want to Learn More?** Click the shortcuts (WIP NOT DONE).
-[Localization](https://github.com/Klingri/Dvortek/blob/main/.github/LOCALIZATION.md)
+[Localization](https://github.com/Klingri/XF_Tornado/blob/main/.github/LOCALIZATION.md)
 
 ---
   
 # License
 - Distributed under the **MIT License**. See `LICENSE` for more information.
-- Special thanks to our early contributors: **Atharv and da_mochaax3.**
+- Special thanks to our early contributors: **Klingri.**
 
 ---
 
 # Version History
 
-View the version history [here.](https://github.com/Klingri/Dvortek/blob/main/.github/CHANGELOGS.md)
+View the version history [here.](https://github.com/Klingri/XF_Tornado/blob/main/.github/CHANGELOGS.md)
 
 ---
 
