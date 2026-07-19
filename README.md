@@ -7,7 +7,7 @@ XF Tornado is an early platform for internet people and hanging out and just chi
 ---
 
 # How to play
-go to.. (WIP)
+go to.. https://klingri.github.io/XF_Tornado/ to see it but you can't play or do anything right now :O
 
 ---
 
